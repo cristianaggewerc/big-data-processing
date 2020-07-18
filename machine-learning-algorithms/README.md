@@ -13,7 +13,9 @@ predict the possibility of rainfall in Australia.
 rain fall tomorrow based on the other related data points (e.g., temperature, wind,
 humidity).
 
-!<a href="url"><img src="https://i.imgur.com/XHiZmdk.png" align="left" height="200" width="250" ></a>
+
+<a href="url"><img src="https://i.imgur.com/XHiZmdk.png" align="left" height="300" width="350" ></a>
+
 
 ## Data
 - `weatherAUS.csv`: Rain in Australia
