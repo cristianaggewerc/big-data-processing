@@ -18,8 +18,8 @@ humidity).
 </div>
 
 <div>
+</div>
 ## Data
 - `weatherAUS.csv`: Rain in Australia
 
 The dataset is originally from Kaggle Dataset and can be found at this [link](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package). It has been modified to serve our purpose i.e. (to do the binary classification).
-</div>
