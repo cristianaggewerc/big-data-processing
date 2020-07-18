@@ -14,7 +14,7 @@ rain fall tomorrow based on the other related data points (e.g., temperature, wi
 humidity).
 
 <div>
-<a href="url"><img src="https://i.imgur.com/XHiZmdk.png" align="left" height="300" width="350" ></a>
+<a href="url"><img src="https://i.imgur.com/XHiZmdk.png" align="left" height="300" width="450" ></a>
 </div>
 
 
