@@ -1,5 +1,5 @@
 # Data Processing for Big Data
-
+![Imgur](https://i.imgur.com/qSXLx9V.png)
 Those projects were developed over the course of Monash MDS. This unit focuses on big data processing, including latest big data technologies (Spark), and NoSQL database (MongoDB). The data processing covers data frames, and various advanced data analytics for big data. Programming exercises and assignments use Spark, MongoDB, Data Frames, and ML Lib.
 
 Two of the projects developed are:
